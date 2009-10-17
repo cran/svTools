@@ -7,16 +7,17 @@ Imports: utils, tools, codetools, svMisc, operators
 Description: Set of tools aimed at wrapping some of the functionalities
         of the packages tools, utils and codetools into a nicer format
         so that an IDE can use them
-Version: 0.0-11
-Date: 2009-08-10
+Version: 0.0-12
+Date: 2009-10-17
 Author: Romain Francois
 Maintainer: Romain Francois <francoisromain@free.fr>
 License: GPL (>= 2)
 LazyLoad: yes
 LazyData: yes
-URL: http://www.sciviews.org/SciViews-R
+URL: http://www.sciviews.org/SciViews-R,
+        http://romainfrancois.blog.free.fr/
 Repository: CRAN
 Repository/R-Forge/Project: sciviews
-Repository/R-Forge/Revision: 174
-Date/Publication: 2009-10-11 14:42:29
-Packaged: 2009-08-11 20:22:10 UTC; rforge
+Repository/R-Forge/Revision: 213
+Date/Publication: 2009-10-29 16:35:45
+Packaged: 2009-10-17 20:21:24 UTC; rforge
