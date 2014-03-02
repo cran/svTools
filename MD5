@@ -1,14 +1,14 @@
-f5357497c7b77da946300beb85968435 *DESCRIPTION
+e4271bccfeda4c988ba3b1ea9d088865 *DESCRIPTION
 4f7c467a042f902b898901ec657d6b2b *NAMESPACE
-82ab3abda0ebb2397d9672c66f4ae5e5 *NEWS
+63f3518b5a7300c6f6dee34e862c77c1 *NEWS
 925a9d5bf4598dee3c7884dfbe537fbd *R/completeDescription.R
 a17a33d62b0198885105001033c0d0a8 *R/completeNamespace.R
 a9a0d458c8374d4c59516c2702c7a028 *R/completeRoxygen.R
-558be6ddf685db07ec83a3394339519d *R/completion.R
-5bb5c7451153d639575c8f0ea720df80 *R/errorlist.R
-6c12e1746f54b65bab01c99a5b046111 *R/lint.R
-1c497665c40e01d809ab6d457d54f15d *R/lintDescription.R
-c4c1aa05be2434c931cf49d7042546d4 *R/lintNamespace.R
+b78fac783a09cd6c3cd860e45990e9a2 *R/completion.R
+a01036643109084b18ae73591e6aa9ea *R/errorlist.R
+40a36c877befd97c8b4299d6c42b0605 *R/lint.R
+38d4220912e85b0e63b81c022ffee521 *R/lintDescription.R
+f241a2e6f470e72d6fdd9e6a2e7d441f *R/lintNamespace.R
 7f99d6b21ee57d19623589a770b94f46 *R/packages.R
 3ed3d5da9fec514e6ae5cbc12e22f283 *R/parseError.R
 e22c88d229535a9dc0d0e0c3eca57218 *R/parseIndex.R
@@ -22,7 +22,6 @@ f02c003b31482c2e279d7bfbd270e459 *R/tryParse.R
 4325e4e4f2052598078b4d210cde8971 *data/bibRNews.rda
 bf132080d5541a618d0b0c8cd665b099 *data/descriptionFields.rda
 9ad96b84f192f7f1987dd3b5d6c9270e *inst/CITATION
-393a5ca445f6965873eca0259a17f833 *inst/LICENSE
 3c6eeb7a1c2c29a41e11991dfc161751 *man/bibRNews.Rd
 2b2242ab647549c39b15bc52944ac76f *man/completeDescription.Rd
 8eb4d28e55e1664413db315885160782 *man/completeNamespace.Rd
@@ -36,4 +35,4 @@ bf132080d5541a618d0b0c8cd665b099 *data/descriptionFields.rda
 8e0b527ecbaf1e45e2f9d54b1020da47 *man/pkgDesc.Rd
 632fcb1a68778dd056006a35980ea1d0 *man/searchEngines.Rd
 6ba38a9ded20d692b4d6a40823eb86eb *man/sidekick.Rd
-8b96c9ee8f3f3c6cace2b04db1349938 *man/svTools-package.Rd
+1f4600d455c0d3260fcb8e1aaf5d53bb *man/svTools-package.Rd
