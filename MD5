@@ -1,5 +1,5 @@
-e4271bccfeda4c988ba3b1ea9d088865 *DESCRIPTION
-4f7c467a042f902b898901ec657d6b2b *NAMESPACE
+137750693a70534bdd7d61a7b2f83a29 *DESCRIPTION
+2b955825d4000ca4abeaa3cf1bc764f5 *NAMESPACE
 63f3518b5a7300c6f6dee34e862c77c1 *NEWS
 925a9d5bf4598dee3c7884dfbe537fbd *R/completeDescription.R
 a17a33d62b0198885105001033c0d0a8 *R/completeNamespace.R
@@ -35,4 +35,4 @@ bf132080d5541a618d0b0c8cd665b099 *data/descriptionFields.rda
 8e0b527ecbaf1e45e2f9d54b1020da47 *man/pkgDesc.Rd
 632fcb1a68778dd056006a35980ea1d0 *man/searchEngines.Rd
 6ba38a9ded20d692b4d6a40823eb86eb *man/sidekick.Rd
-1f4600d455c0d3260fcb8e1aaf5d53bb *man/svTools-package.Rd
+7e9be56042b3f28f2463fcf704e2bcfb *man/svTools-package.Rd

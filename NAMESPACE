@@ -1,4 +1,8 @@
-import(utils, tools, codetools, svMisc)
+importFrom(grDevices, "col2rgb", "colors", "palette")
+importFrom(utils, "browseURL", "download.file", "head", "installed.packages",
+  "tail")
+importFrom(codetools, "checkUsage")
+importFrom(svMisc, "callTip", "completion", "toRjson")
 
 export(browse,
        completeCode,
@@ -12,7 +16,7 @@ export(browse,
        generateRoxygenTemplate,
        lint,
        lintDescription,
-       lintNamespace,  
+       lintNamespace,
        pkgDesc,
        pkgInstalled,
        pkgLoaded,
@@ -36,7 +40,7 @@ export(browse,
 
 S3method(sidekick, "default")
 S3method(sidekick, "character")
-S3method(sidekick, "function") 
+S3method(sidekick, "function")
 
 S3method(print, "search")
 S3method(browse, "search")

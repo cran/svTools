@@ -3,7 +3,7 @@
 \alias{svTools}
 \docType{package}
 
-\title{ SciViews GUI API - Tools (wrapper for packages tools and codetools) }
+\title{ Wrappers for Tools in Other Packages for IDE Friendliness }
 \description{
   Set of tools aimed at wrapping some of the functionalities of the packages
   tools, utils and codetools into a nicer format so that an IDE can use them.
@@ -12,8 +12,8 @@
   \tabular{ll}{
     Package: \tab svTools\cr
     Type: \tab Package\cr
-    Version: \tab 0.9-4\cr
-    Date: \tab 2014-03-02\cr
+    Version: \tab 0.9-5\cr
+    Date: \tab 2018-06-28\cr
     License: \tab GPL 2 or above, at your convenience\cr
   }
   % TODO: add description of main functions here. Also add examples
